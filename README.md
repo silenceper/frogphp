@@ -1,4 +1,4 @@
-Frogphp - php学习框架!  
+﻿Frogphp - php学习框架!  
 ---------
 本框架根据MVC模式编写，完全实现面向对象!  
  作者：silenceper  
